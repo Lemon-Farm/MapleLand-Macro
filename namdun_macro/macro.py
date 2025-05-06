@@ -11,7 +11,7 @@ import multiprocessing
 
 # 설정 변수
 model = YOLO(
-    "C:/Users/fnf00/Desktop/python/conda/runs2/detect/train/weights/best.pt")  # 모델 설정
+    "C:/Users/fnf00/Desktop/python/conda/runs/detect/train/weights/best.pt")  # 모델 설정
 region = (
     8,
     8,
