@@ -65,9 +65,6 @@
 
 ## 모델 학습 결과 (Metrics)
 
-### 예측 예시
-![모델 예측 견본](runs\detect\train\val_batch0_labels.jpg)
-
 ### 전체 학습 결과
 ![학습 결과 그래프](runs/detect/train/results.png)
 
